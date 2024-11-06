@@ -1,0 +1,57 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/drawable/about_icon.xml" value="0.2" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/drawable/add_icon.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/drawable/back_icon.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/drawable/delete_con.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/drawable/empty_icon.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/drawable/favourite_icon.xml" value="0.11666666666666667" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/drawable/gradient_black.xml" value="0.16296296296296298" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/drawable/gradient_blue.xml" value="0.1" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/drawable/gradient_pink.xml" value="0.16296296296296298" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/drawable/next_icon.xml" value="0.125" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/drawable/pause_icon.xml" value="0.1" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/drawable/play_icon.xml" value="0.10648148148148148" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/drawable/playlist_icon.xml" value="0.11666666666666667" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/drawable/prev_icon.xml" value="0.125" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/drawable/scroll_bar_icon.xml" value="0.1" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/drawable/search.xml" value="0.1" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/drawable/search_icon.xml" value="0.11666666666666667" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/drawable/search_view.xml" value="0.1" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/drawable/shuffle_icon.xml" value="0.11666666666666667" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/drawable/splash_screen.xml" value="0.2" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/layout/activity_about.xml" value="0.640926640926641" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/layout/activity_favourite.xml" value="0.1" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/layout/activity_feedback.xml" value="0.1" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/layout/activity_player.xml" value="0.1" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/layout/activity_playlist.xml" value="0.1" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/layout/activity_playlist2.xml" value="0.11354166666666667" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/layout/activity_playlist_details.xml" value="0.1" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/layout/activity_selection.xml" value="0.18432971014492755" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/layout/activity_settings.xml" value="0.1" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/layout/add_playlist.xml" value="0.1" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/layout/favourite_vew.xml" value="0.1716485507246377" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/layout/fragment_now_playing.xml" value="0.1" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/layout/music_view.xml" value="0.1" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/layout/nav_header.xml" value="0.1" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/layout/palylist_view.xml" value="0.6" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/menu/nav_menu.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/menu/search_view_menu.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/mipmap-anydpi-v26/music_player_icon.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/91964/Downloads/MusicPlayer/app/src/main/res/mipmap-anydpi-v26/music_player_icon_round.xml" value="0.26614583333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Horizontal LinearLayout for Buttons -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <!-- Shuffle Button -->
+        <Button
+            android:id="@+id/shuffleE"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Shuffle"
+            android:textAllCaps="false"
+            android:contentDescription="Shuffle"
+            android:drawableTop="@drawable/shuffle_icon"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:textColor="@color/black"
+            android:layout_marginEnd="16dp" />
+
+        <!-- Favorite Button -->
+        <Button
+            android:id="@+id/favoriteE"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Favorite"
+            android:textAllCaps="false"
+            android:contentDescription="Favorite"
+            android:drawableTop="@drawable/favourite_icon"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:textColor="@color/black"
+            android:layout_marginEnd="16dp" />
+
+        <!-- Playlist Button -->
+        <Button
+            android:id="@+id/playlistE"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Playlist"
+            android:textAllCaps="false"
+            android:contentDescription="Playlist"
+            android:drawableTop="@drawable/playlist_icon"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:textColor="@color/black" />
+
+    </LinearLayout>
+
+</LinearLayout>
