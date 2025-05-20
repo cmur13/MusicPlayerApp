@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="favorite">Favorite</string>
+    <string name="option_menu">Options</string>
+    <string name="next">Next Song</string>
+    <string name="prev">Previous Song</string>
+    <string name="start">Start/Pause</string>
+    <string name="Shuffle_btn">Shuffle</string>
+    <string name="Playlist_btn">Playlist</string>
+
+</resources>
